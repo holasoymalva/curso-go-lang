@@ -1,5 +1,16 @@
-# Curso de Go lang
+## Curso de Go lang
 
+### Hola Mundo
+
+```golang
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Ella no te ama!!!")
+}
+```
 ## Indice
 
 * ¿Qué es Golang?
@@ -53,3 +64,30 @@
   * Conexión a bases de datos
   * Manejo de datos con SQL
   * ORM (Object-Relational Mapping)
+
+
+## Introduccion a Golang
+
+
+## Contributing 
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+
+## Author
+Created by HolaSoyMalva.
+
+[![ig]][ig-link] [![tt]][tt-link]
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+[ig]: https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
+[fb]: https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white
+[tt]: https://img.shields.io/badge/tiktok-000000?style=flat-square&logo=tiktok&logoColor=white
+
+[ig-link]: https://www.instagram.com/malvabombom/
+[tt-link]: https://www.tiktok.com/@malvabombom
+
+
