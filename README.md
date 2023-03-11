@@ -1,16 +1,4 @@
-## Curso de Go lang
-
-### Hola Mundo
-
-```golang
-package main
-
-import "fmt"
-
-func main() {
-	fmt.Println("Ella no te ama!!!")
-}
-```
+# Curso de Go lang
 ## Indice
 
 * ¿Qué es Golang?
@@ -67,7 +55,17 @@ func main() {
 
 
 ## Introduccion a Golang
+### Hola Mundo
 
+```golang
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Ella no te ama!!!")
+}
+```
 
 ## Contributing 
 
