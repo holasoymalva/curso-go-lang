@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+
 	for i := 1; i <= 10; i++ {
 		fmt.Println(i)
 	}
@@ -20,5 +21,12 @@ func main() {
 
 	for i, numero := range numeros {
 		fmt.Printf("El numero %s tiene el indice %d\n", numero, i)
+	}
+
+	// For simulando ser un while
+	valor := 1
+	for valor <= 10 {
+		fmt.Println(valor)
+		valor++
 	}
 }
