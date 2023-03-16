@@ -32,17 +32,18 @@
   * Maps
   * Structs
   
+* Programación orientada a objetos
+  * Conceptos básicos de POO
+  * Creación y uso de objetos en Golang
+  * Herencia y polimorfismo
+
 * Concurrencia y paralelismo
   * Goroutines
   * Canales
   * WaitGroups
   * Mutexes y RWMutexes
 
-* Programación orientada a objetos
-  * Conceptos básicos de POO
-  * Creación y uso de objetos en Golang
-  * Herencia y polimorfismo
-  
+
 * Web programming
   * Creación de servidores web con Golang
   * Manejo de solicitudes HTTP
